@@ -1,17 +1,3 @@
-/* 
-['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
-    pseudocode
-    input n; m
-    for i in range(n, m+1):
-        if i <= 9
-            вывести английское название числа
-        else
-            if i % 2 == 0
-                вывести "even"
-            else
-            вывести "odd"
-*/ 
-
 # include <iostream>
 # include <string>
 
