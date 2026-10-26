@@ -13,7 +13,6 @@
                 "-Wextra",
                 "-Wconversion",
                 "-Wsign-conversion",
-                "-Werror",
                 "${file}",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
