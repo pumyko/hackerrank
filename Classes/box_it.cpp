@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
-
 using namespace std;
+
+
 //Implement the class Box  
 //l,b,h are integers representing the dimensions of the box
 
@@ -22,6 +23,7 @@ using namespace std;
 
 //Overload operator << as specified
 //ostream& operator<<(ostream& out, Box& B)
+
 class Box{
 private:
     int l, b, h;
