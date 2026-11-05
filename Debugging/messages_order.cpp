@@ -26,7 +26,7 @@ private:
 public:
     MessageFactory() : next_order_(1) {}
     Message create_message(const string& text) {
-        return Message(text, next_order_++);
+        return Message(text, next_order_++);    
     }
 };
 
